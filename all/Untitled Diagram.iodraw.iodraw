@@ -478,8 +478,8 @@
             <mxPoint x="450" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KnpxZf9ZHe6nitvZiz9a-125" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="1230" width="120" height="60" as="geometry" />
+        <mxCell id="KnpxZf9ZHe6nitvZiz9a-125" value="第二道工序成品1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="1230" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
