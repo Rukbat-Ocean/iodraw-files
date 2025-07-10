@@ -400,8 +400,8 @@
         <mxCell id="KnpxZf9ZHe6nitvZiz9a-109" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="115" y="1110" width="20" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="KnpxZf9ZHe6nitvZiz9a-110" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="1380" width="60" height="30" as="geometry" />
+        <mxCell id="KnpxZf9ZHe6nitvZiz9a-110" value="n个零配件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="46" y="1345" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
