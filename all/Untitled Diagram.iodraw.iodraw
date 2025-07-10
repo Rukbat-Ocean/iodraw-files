@@ -409,13 +409,13 @@
             <mxPoint x="190" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KnpxZf9ZHe6nitvZiz9a-112" value="第一道工序成品1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KnpxZf9ZHe6nitvZiz9a-112" value="第一道工序成品1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="399.63" y="1150" width="103" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KnpxZf9ZHe6nitvZiz9a-113" value="第一道工序成品n/3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KnpxZf9ZHe6nitvZiz9a-113" value="第一道工序成品n/3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="397" y="1530" width="103" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KnpxZf9ZHe6nitvZiz9a-114" value="第一道工序成品2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KnpxZf9ZHe6nitvZiz9a-114" value="第一道工序成品2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="397" y="1340" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KnpxZf9ZHe6nitvZiz9a-115" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KnpxZf9ZHe6nitvZiz9a-99" target="KnpxZf9ZHe6nitvZiz9a-112">
@@ -478,7 +478,7 @@
             <mxPoint x="450" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KnpxZf9ZHe6nitvZiz9a-125" value="第二道工序成品1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KnpxZf9ZHe6nitvZiz9a-125" value="第二道工序成品1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="1230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KnpxZf9ZHe6nitvZiz9a-126" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KnpxZf9ZHe6nitvZiz9a-112" target="KnpxZf9ZHe6nitvZiz9a-125">
@@ -493,7 +493,7 @@
             <mxPoint x="520" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KnpxZf9ZHe6nitvZiz9a-128" value="第二道工序成品n/6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KnpxZf9ZHe6nitvZiz9a-128" value="第二道工序成品n/6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="1530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KnpxZf9ZHe6nitvZiz9a-129" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KnpxZf9ZHe6nitvZiz9a-113" target="KnpxZf9ZHe6nitvZiz9a-128">
@@ -520,7 +520,7 @@
             <mxPoint x="960" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KnpxZf9ZHe6nitvZiz9a-133" value="成品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KnpxZf9ZHe6nitvZiz9a-133" value="成品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="949.9999999999998" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KnpxZf9ZHe6nitvZiz9a-134" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="KnpxZf9ZHe6nitvZiz9a-133">
