@@ -413,7 +413,10 @@
           <mxGeometry x="387" y="1150" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KnpxZf9ZHe6nitvZiz9a-113" value="第一道工序成品2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="387" y="1330" width="103" height="40" as="geometry" />
+          <mxGeometry x="397" y="1530" width="103" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KnpxZf9ZHe6nitvZiz9a-114" value="第一道工序成品2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="397" y="1340" width="103" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
