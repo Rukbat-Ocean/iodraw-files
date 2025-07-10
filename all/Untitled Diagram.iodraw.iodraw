@@ -410,7 +410,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KnpxZf9ZHe6nitvZiz9a-112" value="第一道工序成品1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="387" y="1150" width="103" height="40" as="geometry" />
+          <mxGeometry x="399.63" y="1150" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KnpxZf9ZHe6nitvZiz9a-113" value="第一道工序成品n/3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="397" y="1530" width="103" height="40" as="geometry" />
@@ -474,8 +474,8 @@
         </mxCell>
         <mxCell id="KnpxZf9ZHe6nitvZiz9a-124" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="1510" as="sourcePoint" />
-            <mxPoint x="480" y="1460" as="targetPoint" />
+            <mxPoint x="450" y="1500" as="sourcePoint" />
+            <mxPoint x="450" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
